@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 20242_70_7005_552_0_20201_36288_S_1, Algoritmos y Estructura de Datos(552)
+Assessment: M4.1 Algoritmos de recorrido de grafos.
+
+Submission date: 11/12/24, 10:03 PM
+Submission size: 30.9 KB
+Submitter: ERIK GARCÍA CHÁVEZ
+Confirmation number: 2d90c318bae04af4a5ef4dee46f0caa3

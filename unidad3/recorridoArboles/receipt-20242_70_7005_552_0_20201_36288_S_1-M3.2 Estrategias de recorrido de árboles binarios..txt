@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 20242_70_7005_552_0_20201_36288_S_1, Algoritmos y Estructura de Datos(552)
+Assessment: M3.2 Estrategias de recorrido de árboles binarios.
+
+Submission date: 10/9/24, 11:46 PM
+Submission size: 13.8 KB
+Submitter: ERIK GARCÍA CHÁVEZ
+Confirmation number: 9847e751b5e141db862215b2a180c829

@@ -1,0 +1,32 @@
+Competencia: El alumno aplicará conceptos de árboles para implementar las operaciones básicas en árboles binarios.
+
+
+
+Actividad: Escribe un programa que permita crear un árbol binario. El programa debe tener las siguientes opciones:
+
+Insertar nodo (25pts)
+
+Eliminar nodo 
+-(15 pts por eliminar un nodo hoja, 
+
+-25 pts por eliminar un nodo con 1 hijo, 
+
+-35pts por eliminar un nodo con 2 hijos)
+
+Salir
+
+
+Particularidades del programa:
+
+Para insertar el nodo se pide el dato a agregar al árbol. 
+El programa no debe permitir dos nodos con el mismo dato.
+Para eliminar un nodo, el programa pide el dato del nodo a eliminar. En ningún momento debe de preguntar al usuario qué tipo de caso de eliminación se requiere.
+Cada operación básica debe estar implementada en una función, de tal manera que Insertar nodo debe ser una función y Eliminar nodo debe de ser otra función.
+
+
+Restricciones:
+
+No se permite el uso de apuntadores dobles.
+Sólo se permiten las librerías stdio.h y stdlib.h.
+Bajo NINGÚN motivo se permite el uso de variables globales.
+Sólo se permite 1 línea de comentario por función.

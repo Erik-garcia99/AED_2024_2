@@ -1,0 +1,25 @@
+los temas que puede que vengan en el examen 2 son 
+
+-arboles 
+--ingreso
+
+--eliminar
+---nodo con hijoss
+---nodos con 1 hijo
+---nodos con 2 hijos (precesor o sucesor)
+
+--recorrido de arboles 
+---preOrden RID
+--inOreden IRD
+--postOrden IDR
+
+--equilibrio de arboles 
+(tal vez teoria)
+
+-grafos
+-recorrido de arboles en profundidas
+-recorrido de arboles en anchura 
+-algoritmo dijkstra 
+
+--de todos relaizar ejercicios 
+

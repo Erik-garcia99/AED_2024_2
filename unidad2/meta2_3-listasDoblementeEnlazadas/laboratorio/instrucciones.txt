@@ -1,0 +1,30 @@
+Competencia: El alumno creará programas que resuelvan problemas utilizando como estructura de datos principal las listas doblemente ligadas.
+
+
+
+Actividad: Una lista doblemente enlazada tiene dos referencias, generalmente una hacia el nodo que le precede y otra hacia el nodo siguiente, pero no siempre es así, una lista puede tener dos referencias hacia dos nodos siguientes. Un ejemplo, es posible que tengamos un conjunto de datos ordenados por más de un índice. Un índice es un campo único dentro de una estructura que distingue a cada registro de otro. Por ejemplo, suponga que se desea almacenar los datos de N personas ordenados en forma ascendente por nombres y ordenado en forma descendente por promedios, por ejemplo: (Pedro, 9) (Juan, 10)(Maria,6) (Ana, 4). Se necesitarían dos apuntadores, uno siguiente para apuntar alfabéticamente y otro siguiente para apuntar por promedio. La lista tendría dos inicios, uno para apuntar al primer nodo ordenado por nombre y otro para apuntar al primer nodo ordenado por promedio.
+
+
+
+La lista ordenada ascendente por nombre sería:
+
+Ana, 4
+Juan, 10
+María, 6
+Pedro, 9
+La lista ordenada descendentemente por promedio sería:
+
+Juan, 10
+Pedro, 9
+María, 6
+Ana, 4
+Implemente un programa que tenga las siguientes opciones:
+
+--Insertar alumno ya---
+--Eliminar alumno---
+Modificar alumno (sólo el promedio)
+--Mostrar ordenados alfabéticamente ya-- 
+--Mostrar ordenados por promedio ya--
+Restricciones:
+
+No se debe permitir que haya dos alumnos con el mismo nombre.

@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 20242_70_7005_552_0_20201_36288_S_1, Algoritmos y Estructura de Datos(552)
+Assessment: M3.1 Operaciones básicas en árboles binarios.
+
+Submission date: 10/2/24, 10:28 PM
+Submission size: 6.6 KB
+Submitter: ERIK GARCÍA CHÁVEZ
+Confirmation number: 29474aca6f9a4503a4ff4082d5de8490

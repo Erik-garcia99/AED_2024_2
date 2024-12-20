@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 20242_70_7005_552_0_20201_36288_S_1, Algoritmos y Estructura de Datos(552)
+Assessment: M5.1 Algoritmos de ordenamiento Quick Sort y Heap Sort.
+
+Submission date: 11/27/24, 10:39 PM
+Submission size: 26.3 KB
+Submitter: ERIK GARCÍA CHÁVEZ
+Confirmation number: 1f49efd1718e476b8276a7329d6ada68

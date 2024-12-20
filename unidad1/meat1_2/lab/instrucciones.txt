@@ -1,0 +1,38 @@
+Competencia: Aplicar los conceptos y características de las funciones recursivas a la resolución de problemas.
+
+
+
+Actividad: Escribe un programa en lenguaje C que implemente una función recursiva que resuelva el problema que se presenta a continuación:
+
+
+
+En los felinos el patrón de reproducción se da de la siguiente manera: el primer año nacen 12 felinos y de estos el 75% son hembras, 5 años después, de esa hembra no esterilizada, habrán nacido 88572 animales felinos. Esta progresión se verifica en la siguiente relación:
+
+Año 1: 12
+Año 2: 12 + 108
+Año 3: 12 + 108 + 972
+Año 4: 12 + 108 + 972 + 8748
+Año 5: 12 + 108 + 972 + 8748 + 78732
+Total de felinos al final de los 5 años: 88572
+
+
+El programa debe permitir al usuario proporcionar:
+
+La cantidad de nacimientos por hembra.
+El porcentaje de hembras por nacimiento.
+La cantidad de años que desea calcular.
+
+
+El programa debe presentar la información como se mostró en el ejemplo de arriba (desglose de nacimientos año por año y total).
+
+
+
+Notas:
+
+Recuerda que sólo se permite el uso de las librerías stdio.h y stdlib.h.
+No se aceptarán prácticas que no resuelvan el problema por medio de la recursividad.
+
+
+Entrega:
+
+Código fuente (archivo .c).

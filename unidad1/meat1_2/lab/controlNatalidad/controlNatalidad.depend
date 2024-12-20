@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725482278 source:c:\users\erikg\onedrive\documents\ciclo2024-2\aed\unidad1\meat1_2\lab\controlnatalidad\main.c
+	<stdio.h>
+	<stdlib.h>
+

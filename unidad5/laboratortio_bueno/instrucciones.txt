@@ -1,0 +1,43 @@
+Competencia: El alumno implementará métodos de ordenamiento para ilustrar su comportamiento con respecto a un conjunto de entradas. 
+
+
+
+Actividad: Escribe un programa que simule un sistema de registro de infracciones viales. Los datos que debe capturar el agente de policía son:
+
+
+
+Infracciones
+
+Número de placas.
+Marca.
+Modelo.
+Año.
+Multa.
+Motivo de la multa.
+Fecha de la multa.
+
+en la caprtea de img esta la imagn de ejemplo de entradas
+
+
+El programa debe permitir visualizar las infracciones cuando un infractor va a pagar su multa:
+
+Ordenados ascendentemente por número de placas.
+Ordenados descendentemente por Marca y Modelo.
+
+
+El menú del programa debe contener las siguientes opciones:
+
+Agregar infracción (5pts)
+Saldar multa. (eliminar infracción) (5pts)
+Mostrar infracciones ordenadas por número de placas (45pts por la función que implementa el ordenamiento quick Sort).
+Mostrar infracciones ordenadas por Marca y Modelo (45pts por la función que implementa el ordenamiento heap Sort).
+
+
+Restricciones:
+
+El programa debe permitir ingresar tantas infracciones como el usuario desee.
+Cada ordenamiento se debe implementar en una función cuyo nombre sea el mismo del método que se está implementado.
+En pantalla se debe de visualizar gráficamente cada paso de cómo se van ordenando los datos con cada tipo de ordenamiento.
+Cada vez que se haga un ordenamiento, dicho ordenamiento debe de modificar el acomodo original de los datos (es decir, el siguiente ordenamiento debe de tomar los datos como el anterior ordenamiento lo dejó).
+El programa debe tener precargados los datos de la tabla de arriba.
+Las librerías a utilizar son stdlib.h, stdio.h.
